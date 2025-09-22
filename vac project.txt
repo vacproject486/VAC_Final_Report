@@ -1,0 +1,30 @@
+vac project
+
+token:
+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
+
+eclipse
+src main package create class
+create class
+
+jira
+epic - search through site or google
+mobile-story 
+task-iPhone/Samsung
+subtask- version/model
+
+story and epic same start date
+
+eclipse
+maeven project must be created
+file editor-help--eclipse market place->search(testng)-install
+left la project testing folder will be created.
+trust authorities box will be opened.
+test box will come ,select and give ok after downloading
+
+
+C:\Program Files\Jenkins\
+
+username: Niveditha
+pwd:nive_2003
+
